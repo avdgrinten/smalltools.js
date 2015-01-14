@@ -9,7 +9,8 @@
 	"main": "./lib/index.js",
 	"files": [
 		"README.md",
-		"lib/index.js"
+		"lib/index.js",
+		"lib/grep.js"
 	],
 
 	"dependencies": {
