@@ -1,0 +1,24 @@
+
+{
+	"name": "smalltools.js",
+	"version": "0.1.0",
+	
+	"author": "Alexander van der Grinten",
+	"description": "Small UNIX-like tools for JavaScript",
+	
+	"main": "./lib/index.js",
+	"files": [
+		"README.md",
+		"lib/index.js"
+	],
+
+	"dependencies": {
+		"split": "~0.3"
+	},
+	
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/avdgrinten/smalltools.js"
+	}
+}
+
